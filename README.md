@@ -1,18 +1,5 @@
 # 🚀 Bootcamp Luizalabs Back-end com Python
 
-<div align="center">
-
-# 🐍 Bootcamp Luizalabs Back-end com Python
-
-**🏆 Bootcamp oferecido por [DIO](https://www.dio.me/) em parceria com [Luizalabs](https://www.luizalabs.com/)**
-
-[![DIO](https://img.shields.io/badge/DIO-Bootcamp-blue)](https://www.dio.me/bootcamp/luizalabs-back-end-com-python)
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green.svg)]()
-[![Luizalabs](https://img.shields.io/badge/Luizalabs-Parceira-orange.svg)](https://www.luizalabs.com/)
-
-</div>
-
 ## 📋 Descrição do Bootcamp
 
 Este repositório contém todos os códigos desenvolvidos durante o **Bootcamp Luizalabs Back-end com Python**, uma parceria entre a [DIO (Digital Innovation One)](https://www.dio.me/) e a [Luizalabs](https://www.luizalabs.com/). O bootcamp tem como objetivo capacitar desenvolvedores nas tecnologias essenciais para o desenvolvimento back-end com Python.
