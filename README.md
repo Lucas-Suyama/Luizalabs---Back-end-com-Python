@@ -1,7 +1,6 @@
 # 🚀 Bootcamp Luizalabs Back-end com Python
 
 <div align="center">
-  <img src="https://hermes.dio.me/tracks/9c49d191-7910-4b9a-8b19-aeb73a27be3c.png" alt="Luizalabs Back-end com Python" width="200"/>
   
   ### Bootcamp oferecido por [DIO](https://www.dio.me/) em parceria com [Luizalabs](https://www.luizalabs.com/)
   
