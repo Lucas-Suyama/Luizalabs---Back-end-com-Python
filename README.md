@@ -191,7 +191,7 @@ Este projeto é parte de um bootcamp educacional. Os códigos estão disponívei
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ durante o Bootcamp Luizalabs Back-end com Python</p>
+  <p>Desenvolvido durante o Bootcamp Luizalabs Back-end com Python</p>
   <p><b>Keep Learning, Keep Growing! 🚀</b></p>
 </div>
 
