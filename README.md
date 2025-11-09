@@ -1,12 +1,16 @@
 # 🚀 Bootcamp Luizalabs Back-end com Python
 
 <div align="center">
-  
-  ### Bootcamp oferecido por [DIO](https://www.dio.me/) em parceria com [Luizalabs](https://www.luizalabs.com/)
-  
-  [![DIO](https://img.shields.io/badge/DIO-Bootcamp-blue)](https://www.dio.me/bootcamp/luizalabs-back-end-com-python)
-  [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-  [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green.svg)]()
+
+# 🐍 Bootcamp Luizalabs Back-end com Python
+
+**🏆 Bootcamp oferecido por [DIO](https://www.dio.me/) em parceria com [Luizalabs](https://www.luizalabs.com/)**
+
+[![DIO](https://img.shields.io/badge/DIO-Bootcamp-blue)](https://www.dio.me/bootcamp/luizalabs-back-end-com-python)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green.svg)]()
+[![Luizalabs](https://img.shields.io/badge/Luizalabs-Parceira-orange.svg)](https://www.luizalabs.com/)
+
 </div>
 
 ## 📋 Descrição do Bootcamp
