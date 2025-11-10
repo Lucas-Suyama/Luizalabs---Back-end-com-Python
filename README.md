@@ -24,11 +24,50 @@ O bootcamp é dividido em 5 módulos principais, totalizando **42 atividades** q
 - ✅ Live de Lançamento - Luizalabs Back-end com Python
 
 ### 🔄 Módulo 2: Dominando Funções e Boas Práticas em Python (8 atividades)
+- 🔄 Dominando Funções Python
+- 🔄 Desafios de Projetos: Crie Um Portfólio Vencedor
+- 🔄 Otimizando o Sistema Bancário com Funções Python
+- 🔄 Decoradores, Iteradores e Geradores com Python
+- 🔄 Manipulando Arquivos em Python
+- 🔄 Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+- 🔄 Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+- 🔄 Entendendo Funções em Soluções Digitais
+
 ### 🔄 Módulo 3: Programação Orientada a Objetos com Python (7 atividades)
+- 🔄 Introdução à Programação Orientada a Objetos (POO) com Python
+- 🔄 Aprendendo o Conceito de Herança com Python
+- 🔄 Aplicando Encapsulamento em Python
+- 🔄 Conhecendo Polimorfismo em Python
+- 🔄 Interfaces e Classes Abstratas com Python
+- 🔄 Modelando o Sistema Bancário em POO com Python
+- 🔄 Fundamentos de POO em Soluções Digitais
+
 ### 🔄 Módulo 4: Fundamentos de APIs REST com FastAPI (5 atividades)
+- 🔄 Introdução a Aplicações Rest
+- 🔄 Boas Práticas Para APIs RESTful
+- 🔄 Introdução ao FastAPI para APIs RESTful Assíncronas
+- 🔄 Primeiros passos com FastAPI
+- 🔄 Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+
 ### 🔄 Módulo 5: Integrando Python com Banco de Dados Relacionais (3 atividades)
+- 🔄 Introdução Banco de Dados
+- 🔄 Explorando Banco de Dados Relacionais com Python DB API
+- 🔄 Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy
+
 ### 🔄 Módulo 6: Evoluindo com APIs Assíncronas com FastAPI (6 atividades)
+- 🔄 Manipulação de Dados com FastAPI Assíncrono
+- 🔄 Autenticação e Autorização em FastAPI
+- 🔄 Testando APIs RESTful Assíncronas em FastAPI
+- 🔄 Deploy de uma API FastAPI Assíncrona
+- 🔄 Boas Práticas para APIs RESTful Assíncronas com FastAPI
+- 🔄 Criando sua API Bancária Assíncrona com FastAPI
+
 ### 🔄 Módulo 7: Aumentando a Produtividade com IA e Versionamento de Código (5 atividades)
+- 🔄 Conhecendo o GitHub Copilot: Aumentando sua Produtividade na Programação
+- 🔄 Configurando e Usando o GitHub Copilot
+- 🔄 Bases de Prompt Engineering para o GitHub Copilot
+- 🔄 Técnicas de Engenharia de Prompt
+- 🔄 Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python
 
 ## 🛠️ Tecnologias Utilizadas
 
