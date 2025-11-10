@@ -16,7 +16,7 @@ O bootcamp é dividido em 5 módulos principais, totalizando **42 atividades** q
 - ✅ Conhecendo a Linguagem de Programação Python
 - ✅ Tipos de Operadores com Python
 - ✅ Estruturas Condicionais e de Repetição em Python
-- 🔄 Manipulando Strings com Python
+- ✅ Manipulando Strings com Python
 - 🔄 Trabalhando com Listas em Python
 - 🔄 Conhecendo Tuplas em Python
 - 🔄 Aprendendo a Utilizar Dicionários em Python
