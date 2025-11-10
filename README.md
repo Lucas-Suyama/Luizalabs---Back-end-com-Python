@@ -19,7 +19,7 @@ O bootcamp é dividido em 5 módulos principais, totalizando **42 atividades** q
 - ✅ Manipulando Strings com Python
 - ✅ Trabalhando com Listas em Python
 - ✅ Conhecendo Tuplas em Python
-- 🔄 Aprendendo a Utilizar Dicionários em Python
+- ✅ Aprendendo a Utilizar Dicionários em Python
 - 🔄 Versionamento de Código com Git e GitHub
 - 🔄 Live de Lançamento - Luizalabs Back-end com Python
 
