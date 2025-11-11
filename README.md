@@ -23,10 +23,10 @@ O bootcamp é dividido em 5 módulos principais, totalizando **42 atividades** q
 - ✅ Versionamento de Código com Git e GitHub
 - ✅ Live de Lançamento - Luizalabs Back-end com Python
 
-### 🔄 Módulo 2: Dominando Funções e Boas Práticas em Python (8 atividades)
-- 🔄 Dominando Funções Python
-- 🔄 Desafios de Projetos: Crie Um Portfólio Vencedor
-- 🔄 Otimizando o Sistema Bancário com Funções Python
+### ✅ Módulo 2: Dominando Funções e Boas Práticas em Python (8 atividades)
+- ✅ Dominando Funções Python
+- ✅ Desafios de Projetos: Crie Um Portfólio Vencedor
+- ✅ Otimizando o Sistema Bancário com Funções Python
 - 🔄 Decoradores, Iteradores e Geradores com Python
 - 🔄 Manipulando Arquivos em Python
 - 🔄 Gerenciamento de Pacotes, Convenções e Boas Práticas Python
