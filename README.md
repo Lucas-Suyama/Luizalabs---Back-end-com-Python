@@ -27,7 +27,7 @@ O bootcamp é dividido em 5 módulos principais, totalizando **42 atividades** q
 - ✅ Dominando Funções Python
 - ✅ Desafios de Projetos: Crie Um Portfólio Vencedor
 - ✅ Otimizando o Sistema Bancário com Funções Python
-- 🔄 Decoradores, Iteradores e Geradores com Python
+- ✅ Decoradores, Iteradores e Geradores com Python
 - 🔄 Manipulando Arquivos em Python
 - 🔄 Gerenciamento de Pacotes, Convenções e Boas Práticas Python
 - 🔄 Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
